@@ -1,5 +1,5 @@
 # Gameplay Project
-This project is an adventure game I've created using Unreal Engine 4 C++, aimed at demonstrating various gameplay mechanics. I've included my commented source code in this repository.
+This project is an adventure game I've created using Unreal Engine 4 C++, aimed at demonstrating various gameplay mechanics. I've included my commented source code in this repository, and the project can be downloaded from my itch.io profile at https://shravani.itch.io/action-adventure-game.
 
 ## Summary of Features
 Features I've implemented so far:
